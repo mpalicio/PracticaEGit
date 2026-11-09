@@ -1,0 +1,11 @@
+# Archivos que genera Java
+/bin/
+*.class
+
+# Archivos de Eclipse que no necesito subir
+.settings/
+.classpath
+
+# Archivos temporales
+*.log
+*.tmp
